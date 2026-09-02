@@ -1,3 +1,12 @@
+# Evolutionarily constrained positioning of low-adaptation synonymous codon segments relative to transmembrane-domain boundaries in Enterobacterales
+
+**Ming Li**
+
+Division of Chemistry, Graduate School of Science, Kyoto University, Kyoto, Japan
+
+**Corresponding author:** Ming Li  
+**Email:** li.ming.52v@st.kyoto-u.ac.jp
+
 # Abstract
 
 Synonymous codon usage can influence translation and cotranslational protein biogenesis, but whether synonymous codon organization is evolutionarily constrained relative to membrane-protein topology remains unclear. Here, I developed a comparative framework to test whether low-adaptation synonymous codon segments show conserved positioning relative to homologous transmembrane-domain (TMD) boundaries across Enterobacterales.
