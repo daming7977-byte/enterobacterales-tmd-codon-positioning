@@ -57,3 +57,11 @@ Analysis code is released under the MIT License. See `LICENSE` for details.
 `workflow_scripts/` contains the original analysis scripts used during the study. These scripts preserve the project-relative paths and intermediate-file structure of the original working directory and are provided for workflow transparency rather than as a fully self-contained raw-data pipeline.
 
 The processed data and result tables included here are sufficient to inspect the principal analyses and reproduce the released summary figures without the original large intermediate working files.
+
+## Repository and archive
+
+GitHub repository:
+https://github.com/daming7977-byte/enterobacterales-tmd-codon-positioning
+
+Archived release:
+https://doi.org/10.5281/zenodo.22252714
