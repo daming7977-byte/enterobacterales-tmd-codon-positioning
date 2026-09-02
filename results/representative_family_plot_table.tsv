@@ -1,0 +1,17 @@
+orthogroup	genome	protein_id	tmd_index	tmd_start	tmd_end	segment_start	segment_end	segment_center	distance_to_tmd_start	distance_to_tmd_end	relation
+orthogroup_105	GCF_000005845.2	NP_414697.1	8	421	436	433	435	434.0	13.0	-2.0	overlap
+orthogroup_105	GCF_000006945.1	NP_459208.1	8	422	440	433	435	434.0	12.0	-6.0	overlap
+orthogroup_105	GCF_000018045.1	WP_012134002.1	8	421	439	433	435	434.0	13.0	-5.0	overlap
+orthogroup_105	GCF_000025565.1	WP_023620753.1	8	421	440	433	435	434.0	13.0	-6.0	overlap
+orthogroup_105	GCF_000240185.1	YP_005225204.1	8	452	470	463	465	464.0	12.0	-6.0	overlap
+orthogroup_36	GCF_000005845.2	NP_417482.1	2	52	61	53	55	54.0	2.0	-7.0	overlap
+orthogroup_36	GCF_000006925.2	NP_708825.1	2	52	61	53	55	54.0	2.0	-7.0	overlap
+orthogroup_36	GCF_000018045.1	WP_012135142.1	2	40	60	48	50	49.0	9.0	-11.0	overlap
+orthogroup_36	GCF_000025565.1	WP_013098714.1	2	52	61	53	56	54.5	2.5	-6.5	overlap
+orthogroup_36	GCF_000270125.2	WP_013027223.1	2	52	61	53	55	54.0	2.0	-7.0	overlap
+orthogroup_540	GCF_000005845.2	NP_415424.1	1	37	53	9	12	10.5	-26.5	-42.5	upstream
+orthogroup_540	GCF_000006925.2	NP_706822.2	1	37	53	9	12	10.5	-26.5	-42.5	upstream
+orthogroup_540	GCF_000006945.1	NP_459949.1	1	37	53	9	11	10.0	-27.0	-43.0	upstream
+orthogroup_540	GCF_000018045.1	WP_024130478.1	1	37	53	9	11	10.0	-27.0	-43.0	upstream
+orthogroup_540	GCF_000025565.1	WP_013097310.1	1	37	53	9	11	10.0	-27.0	-43.0	upstream
+orthogroup_540	GCF_000240185.1	YP_005226112.1	1	37	53	9	12	10.5	-26.5	-42.5	upstream

@@ -1,0 +1,14 @@
+Python:
+Python 3.8.20
+
+Conda:
+conda 25.7.0
+
+MMseqs2:
+22c2fff5c300bba65043666ef0b4cf13370d8a69
+
+MAFFT:
+v7.525 (2024/Mar/13)
+
+DeepTMHMM:
+DTU/DeepTMHMM:1.0.24

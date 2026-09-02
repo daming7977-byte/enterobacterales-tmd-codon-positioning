@@ -1,0 +1,12 @@
+project: enterobacterales_tmd_spacing_pilot
+proteome_source: data/unpacked_and_unpacked_amendment/protein.faa
+tool_preference: mmseqs2
+tool_fallback_order: [mmseqs2, diamond, blastp]
+orthology_method: reciprocal_best_hit_with_strict_one_per_species_filter
+minimum_species_presence: 8
+minimum_alignment_coverage: 0.7
+minimum_pairwise_identity: 0.3
+exclude_paralogs: true
+exclude_ties: true
+exclude_multiple_hits: true
+feature_analysis_allowed: false

@@ -1,0 +1,3 @@
+anchor_type	membrane_qualifying_orthogroups	soluble_qualifying_orthogroups	shared_orthogroups	membrane_median_variance	soluble_median_variance	soluble_minus_membrane	bootstrap_CI_low	bootstrap_CI_high	bootstrap_probability_difference_le_zero
+start	76	41	17	26.64285725	28.5	1.8571427500000013	-56.95312550000001	58.845833	0.42681573184268157
+end	76	42	17	35.395832999999996	28.833333000000003	-6.562499999999993	-71.43229174999999	102.58333350000001	0.5740542594574054

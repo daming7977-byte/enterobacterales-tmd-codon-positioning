@@ -1,0 +1,9 @@
+=== WITHOUT TMD1 ===
+Observed qualifying units: 54
+Observed median variance: 17.208333
+Null permutations: 1000
+Null median-of-medians: 116.81249975
+Null minimum: 20.2125
+Null maximum: 949.0
+Null <= observed: 0
+Empirical one-sided p: 0.000999000999000999

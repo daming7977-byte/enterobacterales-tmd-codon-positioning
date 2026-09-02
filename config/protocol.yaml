@@ -1,0 +1,27 @@
+project: enterobacterales_tmd_spacing_pilot
+species_panel: config/species_panel.tsv
+orthology:
+  source: eggNOG_or_reproducible_one_to_one_orthology
+  minimum_species: 8
+  require_one_to_one: true
+  require_no_paralog_ambiguity: true
+topology:
+  primary_source: reviewed_UniProt
+  secondary_source: RefSeq_or_curated_topology
+  minimum_tmds: 3
+  require_order_unambiguous: true
+codon_metric:
+  metric: within_species_relative_adaptation
+  low_adaptation_threshold: bottom_decile_within_species
+  segment_definition: consecutive_low_adaptation_codons_length_ge_3
+  normalization: species_and_amino_acid_specific
+  freeze_before_outcome: true
+analysis:
+  anchors: [tmd_start, tmd_end]
+  primary: cross_species_variance_of_relative_feature_position
+  nulls: [synonymous_composition_preserving, matched_non_tmd, matched_soluble]
+  clustered_unit: ortholog_group
+stop_rules:
+  minimum_ortholog_groups: 100
+  minimum_tmd_correspondence_fraction: 0.8
+  family_dominance_fraction: 0.5

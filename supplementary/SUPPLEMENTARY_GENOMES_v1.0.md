@@ -1,0 +1,14 @@
+# Supplementary Table S1. Enterobacterales genomes used in this study
+
+| Species | RefSeq assembly accession |
+|---|---|
+| Escherichia coli | GCF_000005845.2 |
+| Shigella flexneri | GCF_000006925.2 |
+| Salmonella enterica | GCF_000006945.1 |
+| Yersinia pestis | GCF_000009065.1 |
+| Citrobacter koseri | GCF_000018045.1 |
+| Enterobacter cloacae | GCF_000025565.1 |
+| Proteus mirabilis | GCF_000069965.1 |
+| Klebsiella pneumoniae | GCF_000240185.1 |
+| Pantoea ananatis | GCF_000270125.2 |
+| Serratia marcescens | GCF_000762985.1 |
