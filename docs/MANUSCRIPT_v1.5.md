@@ -1,12 +1,16 @@
 # Abstract
 
-Synonymous codon usage can influence translation and cotranslational protein biogenesis, but whether local synonymous codon organization is evolutionarily constrained relative to membrane-protein topology remains unclear. Here, I developed a comparative framework to test whether low-adaptation synonymous codon segments show conserved positioning relative to homologous transmembrane-domain (TMD) boundaries across Enterobacterales.
+Synonymous codon usage can influence translation and cotranslational protein biogenesis, but whether synonymous codon organization is evolutionarily constrained relative to membrane-protein topology remains unclear. Here, I developed a comparative framework to test whether low-adaptation synonymous codon segments show conserved positioning relative to homologous transmembrane-domain (TMD) boundaries across Enterobacterales.
 
 I analyzed strict one-to-one orthologous groups spanning 10 representative genomes and identified 225 topology-qualified multi-pass membrane-protein families. Species-specific synonymous codon adaptation weights were used to define low-adaptation codons, and segments of at least three consecutive low-adaptation codons were mapped relative to homologous TMD starts and ends. Cross-species positional conservation was quantified as the variance of segment positions relative to each homologous TMD anchor.
 
-Qualifying TMD units showed substantially lower positional variance than expected under 1,000 within-protein synonymous-codon permutations for both TMD starts and ends. The signal persisted after exclusion of first TMDs, under a fixed-presence conditional positional null, and in leave-one-orthogroup-out analyses. Homologous non-TMD pseudo-anchors within the same membrane-protein families produced markedly higher positional variance than bona fide TMD anchors. A separately constructed set of 197 one-to-one matched soluble-protein families provided additional but anchor-dependent evidence, with stronger support for TMD-start-relative constraint than for TMD-end-relative constraint.
+Qualifying TMD units showed substantially lower positional variance than expected under 1,000 within-protein synonymous-codon permutations for TMD starts and ends. The signal persisted after exclusion of first TMDs, under a fixed-presence positional null, and in leave-one-orthogroup-out analyses. Homologous non-TMD pseudo-anchors within the same membrane-protein families produced markedly higher positional variance than bona fide TMD anchors. A set of 197 matched soluble-protein families provided additional but anchor-dependent evidence, with stronger support for TMD-start-relative than TMD-end-relative constraint.
 
 Together, these results reveal evolutionarily constrained positioning of low-adaptation synonymous codon segments relative to homologous TMD boundaries in Enterobacterales. This pattern is not readily explained by synonymous composition, feature presence, family dominance, or generic conservation around homologous sequence positions. Although the underlying mechanism remains unresolved, the findings identify TMD-relative synonymous codon positioning as a testable feature of membrane-protein coding-sequence evolution.
+
+# Keywords
+
+synonymous codon usage; membrane proteins; transmembrane domains; codon adaptation; molecular evolution
 
 # Introduction
 
