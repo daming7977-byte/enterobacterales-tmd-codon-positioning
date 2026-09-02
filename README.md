@@ -64,4 +64,4 @@ GitHub repository:
 https://github.com/daming7977-byte/enterobacterales-tmd-codon-positioning
 
 Archived release:
-https://doi.org/10.5281/zenodo.22252714
+https://doi.org/10.5281/zenodo.22254908

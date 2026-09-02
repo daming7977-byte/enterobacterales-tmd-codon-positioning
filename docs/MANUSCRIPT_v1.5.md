@@ -311,11 +311,11 @@ All genome assemblies, coding sequences, protein sequences, and genome annotatio
 
 The study analyzed 10 representative Enterobacterales genomes: Escherichia coli, Shigella flexneri, Salmonella enterica, Yersinia pestis, Citrobacter koseri, Enterobacter cloacae, Proteus mirabilis, Klebsiella pneumoniae, Pantoea ananatis, and Serratia marcescens. Assembly accession identifiers for all genomes are provided in Supplementary Table S1.
 
-Processed analysis tables underlying the main figures and statistical analyses, including ortholog-group assignments, topology-qualified membrane-protein families, low-adaptation codon segments, TMD-relative positional measurements, permutation-null summaries, matched soluble-family controls, and family-level comparison statistics, are publicly available in the associated reproducibility repository and its archived Zenodo release (https://github.com/daming7977-byte/enterobacterales-tmd-codon-positioning; https://doi.org/10.5281/zenodo.22252714).
+Processed analysis tables underlying the main figures and statistical analyses, including ortholog-group assignments, topology-qualified membrane-protein families, low-adaptation codon segments, TMD-relative positional measurements, permutation-null summaries, matched soluble-family controls, and family-level comparison statistics, are publicly available in the associated reproducibility repository and its archived Zenodo release (https://github.com/daming7977-byte/enterobacterales-tmd-codon-positioning; https://doi.org/10.5281/zenodo.22254908).
 
 # Code availability
 
-Custom scripts used for ortholog filtering, topology integration, codon-adaptation calculation, low-adaptation segment detection, TMD-relative positional analysis, permutation tests, homologous non-TMD pseudo-anchor controls, matched soluble-family construction, and family-level statistical analyses are publicly available at https://github.com/daming7977-byte/enterobacterales-tmd-codon-positioning and are archived at Zenodo under DOI: 10.5281/zenodo.22252714.
+Custom scripts used for ortholog filtering, topology integration, codon-adaptation calculation, low-adaptation segment detection, TMD-relative positional analysis, permutation tests, homologous non-TMD pseudo-anchor controls, matched soluble-family construction, and family-level statistical analyses are publicly available at https://github.com/daming7977-byte/enterobacterales-tmd-codon-positioning and are archived at Zenodo under DOI: 10.5281/zenodo.22254908.
 
 The repository includes frozen parameter files, software-version information, processed datasets, final statistical outputs, original workflow scripts, and portable core scripts for reproducing the released principal summary figures from the included processed data.
 
