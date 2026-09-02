@@ -32,7 +32,7 @@ Previous studies have reported position-specific evolutionary conservation of sy
 Here, I developed a comparative framework to test whether locally low-adaptation synonymous codon segments show evolutionarily constrained positioning relative to homologous TMDs in Enterobacterales. Using strict one-to-one orthologous groups across 10 representative genomes, curated membrane-topology information, species-specific synonymous codon adaptation metrics, and multiple positional null models, I quantified cross-species variation in low-adaptation segment positions relative to homologous TMD starts and ends. I found that these segments showed substantially lower positional variance relative to bona fide TMD boundaries than expected under within-protein synonymous-codon permutation and homologous non-TMD pseudo-anchor controls. Matched soluble-family analyses provided additional but anchor-dependent evidence, with stronger support for TMD-start-relative constraint than for TMD-end-relative constraint. These results reveal evolutionarily constrained positioning of low-adaptation synonymous codon segments relative to homologous TMD boundaries, while leaving open whether this pattern directly reflects modulation of translation kinetics, membrane insertion, cotranslational folding, or another selective constraint.
 
 # Results
-Construction of a comparative membrane-protein dataset across Enterobacterales
+## Construction of a comparative membrane-protein dataset across Enterobacterales
 
 To examine whether synonymous codon organization is evolutionarily constrained relative to transmembrane domains (TMDs), I assembled a comparative dataset spanning 10 representative Enterobacterales genomes. Protein orthology was defined using a strict reciprocal-best-hit procedure followed by a one-to-one family filter, with orthologous groups required to be represented in at least eight species. This procedure yielded 1,836 orthologous groups suitable for comparative analysis (Figure 1; Supplementary Table S2).
 
@@ -40,7 +40,7 @@ Membrane-protein families were subsequently subjected to topology quality contro
 
 For each species, synonymous codon adaptation was quantified using species-specific relative codon weights calculated within synonymous amino-acid groups. Low-adaptation codons were defined using frozen species-specific thresholds, and low-adaptation segments were identified as runs of at least three consecutive low-adaptation codons. TMD starts and ends were treated as the primary positional anchors, with TMD centers examined as a supplementary reference. Cross-species positional conservation was quantified as the variance in low-adaptation segment position relative to homologous TMD anchors. Across the 225 topology-qualified families, 1,082 low-adaptation segments were identified in 757 proteins, with at least one segment detected in 216 of the 225 families (Supplementary Table S4).
 
-Low-adaptation codon segments show conserved positioning relative to TMD boundaries
+## Low-adaptation codon segments show conserved positioning relative to TMD boundaries
 
 Across the 225 topology-qualified membrane-protein families, 93 homologous orthogroup–TMD units satisfied the primary inclusion criterion of representation in at least eight species and presence of a low-adaptation segment in at least three species (Supplementary Table S5). The median cross-species positional variance was 22.70 aa² relative to TMD starts and 34.55 aa² relative to TMD ends. The corresponding median variance relative to TMD centers was 28.67 aa².
 
@@ -50,7 +50,7 @@ To determine whether the observed positional conservation could arise from synon
 
 Together, these results indicate that low-adaptation synonymous codon segments exhibit substantially stronger cross-species positional conservation relative to homologous TMD boundaries than expected from synonymous codon composition alone.
 
-TMD-relative positional conservation is robust to positional, family-level, and homologous non-TMD controls
+## TMD-relative positional conservation is robust to positional, family-level, and homologous non-TMD controls
 
 I next tested whether the observed positional conservation could be explained by factors unrelated to TMD-associated organization. Because N-terminal sequence context may impose distinct constraints on translation and targeting, I first repeated the analysis after excluding all first TMDs. Fifty-four homologous TMD units remained eligible under the frozen inclusion criteria. Their observed median positional variance was 17.21 aa², substantially below the median of the corresponding 1,000-permutation null distribution, 116.81 aa². None of the permutations produced a median variance as low as the observed value (empirical one-sided P = 9.99 × 10⁻⁴), indicating that the signal was not driven solely by first-TMD-associated effects (Figure 3C; Supplementary Figure S1).
 
@@ -62,7 +62,7 @@ Finally, I tested whether similarly conserved positioning would be observed rela
 
 Together, these analyses show that the observed positional conservation cannot be readily explained by first-TMD effects, feature-presence patterns, dominance by a small number of protein families, or generic conservation around arbitrary homologous sequence positions. Instead, low-adaptation segments are preferentially position-constrained relative to bona fide TMD boundaries.
 
-Matched soluble-family controls reveal anchor-dependent differences in positional constraint
+## Matched soluble-family controls reveal anchor-dependent differences in positional constraint
 
 To further assess whether the observed positional constraint was associated with membrane-protein architecture rather than reflecting a general feature of protein-coding sequences, I constructed a matched soluble-protein control set. Each membrane-protein orthogroup was matched to a soluble orthogroup with the same species composition and a protein-length difference within 5%. Candidate soluble families were required to be classified as globular by DeepTMHMM, and one-to-one matching was obtained using a maximum-cardinality minimum-cost procedure. This yielded 197 matched membrane–soluble family pairs (Supplementary Table S6).
 
